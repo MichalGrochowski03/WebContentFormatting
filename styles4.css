@@ -1,0 +1,19 @@
+form{font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 5px auto;
+    width: 100%;}
+
+input[type="submit"]{
+    background-color:darkgreen;
+    color: white;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+input[type="date"],
+select,
+textarea{
+    border: 2px solid;
+    width: 100%;
+}

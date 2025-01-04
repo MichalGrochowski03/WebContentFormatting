@@ -1,0 +1,21 @@
+    th {
+        background-color: darkgreen;
+        padding: 8px;
+        color:aliceblue;
+    }
+    table{
+        color:darkblue;
+        border: 2px solid;
+        border-collapse: collapse;
+        
+    }
+    td {
+        padding: 10px;
+    }
+    .Landmark{
+        width: 25%;
+    }
+    .Significance{
+        width: 40%;
+    }
+    tr:hover{ background-color: #f2f2f2;}
